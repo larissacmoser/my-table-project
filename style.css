@@ -1,0 +1,27 @@
+.width-maker {
+  width: 200px;
+}
+
+.btn-color {
+  background-color: #af4051;
+  color: white;
+  border: none;
+  border-radius: 0.375rem;
+  padding: 0px;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background: url(./assets/aaron-burden-QJDzYT_K8Xg-unsplash.jpg);
+  background-size: cover;
+}
+
+#main-content {
+  background-color: white;
+  border-radius: 15px;
+  padding: 50px;
+  margin-top: 50px;
+}
